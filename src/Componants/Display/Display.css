@@ -1,0 +1,106 @@
+:root {
+  --gra: linear-gradient(45deg, rgb(166, 180, 181), rgb(17, 149, 215));
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  display: none;
+}
+
+body {
+  margin: 0 auto;
+  background-color: #000000;
+}
+button {
+  width: 120px;
+  height: 33px;
+  background: var(--gra);
+  color: rgb(235, 228, 228);
+  border-color: rgb(182, 182, 182);
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+button:hover {
+  color: rgb(255, 255, 255);
+  background: rgb(26, 156, 195);
+  border-color: rgb(91, 210, 226);
+}
+button:active {
+  color: rgb(225, 225, 225);
+  border-color: rgb(91, 210, 226);
+}
+section {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  margin: 40px 40px;
+  text-align: center;
+  padding: 5px;
+  grid-gap: 7px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.container > div {
+  margin-bottom: 40px;
+}
+
+.card {
+  padding: 1px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #3d3d3d;
+  max-width: 450px;
+  padding: 1em;
+  width: 500px !important;
+  height: 650px !important;
+  border-radius: 5px;
+  box-shadow: 1em 2em 2.5em rgba(1, 2, 68, 0.08);
+}
+.card:hover {
+  box-shadow: rgba(37, 147, 177, 0.819) 0px 7px 29px 0px;
+  cursor: pointer;
+}
+h3 {
+  position: relative;
+  display: flex;
+  margin: 0 auto;
+  background-color: #3d3d3d;
+  border-radius: 4px;
+  color: #cecbcb;
+}
+h4 {
+  position: relative;
+  display: flex;
+  margin: 5px;
+  color: #aba8a8;
+}
+img {
+  display: flex;
+  text-align: center;
+  width: 350px;
+  height: 370px;
+  background-image: cover;
+  margin: 0 auto;
+  box-shadow: 2px 3px 2px #595958;
+  border: 3px solid transparent;
+  border-radius: 5px;
+  transform: scale(1);
+  transition: transform 0.4s ease;
+}
+img:hover {
+  box-shadow: rgba(12, 166, 208, 0.819) 0px 7px 29px 0px;
+}
