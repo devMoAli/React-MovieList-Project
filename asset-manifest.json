@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-props-useState-Hook/static/css/main.651b893c.css",
-    "main.js": "/React-props-useState-Hook/static/js/main.9968f319.js",
+    "main.css": "/React-props-useState-Hook/static/css/main.7a6098d6.css",
+    "main.js": "/React-props-useState-Hook/static/js/main.abe38ac6.js",
     "static/js/787.6aa02995.chunk.js": "/React-props-useState-Hook/static/js/787.6aa02995.chunk.js",
     "index.html": "/React-props-useState-Hook/index.html",
-    "main.651b893c.css.map": "/React-props-useState-Hook/static/css/main.651b893c.css.map",
-    "main.9968f319.js.map": "/React-props-useState-Hook/static/js/main.9968f319.js.map",
+    "main.7a6098d6.css.map": "/React-props-useState-Hook/static/css/main.7a6098d6.css.map",
+    "main.abe38ac6.js.map": "/React-props-useState-Hook/static/js/main.abe38ac6.js.map",
     "787.6aa02995.chunk.js.map": "/React-props-useState-Hook/static/js/787.6aa02995.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.651b893c.css",
-    "static/js/main.9968f319.js"
+    "static/css/main.7a6098d6.css",
+    "static/js/main.abe38ac6.js"
   ]
 }
