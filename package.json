@@ -1,6 +1,6 @@
 {
-  "homepage": "http://devMoAli.github.io/React-props-useState-Hook",
-  "name": "react-props-usestate-hook",
+  "homepage": "http://devMoAli.github.io/React-Props-MovieList",
+  "name": "react-props-movielist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
