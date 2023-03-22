@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-props-useState-Hook/static/css/main.7a6098d6.css",
-    "main.js": "/React-props-useState-Hook/static/js/main.b95d0aba.js",
-    "static/js/177.c69129af.chunk.js": "/React-props-useState-Hook/static/js/177.c69129af.chunk.js",
-    "index.html": "/React-props-useState-Hook/index.html",
-    "main.7a6098d6.css.map": "/React-props-useState-Hook/static/css/main.7a6098d6.css.map",
-    "main.b95d0aba.js.map": "/React-props-useState-Hook/static/js/main.b95d0aba.js.map",
-    "177.c69129af.chunk.js.map": "/React-props-useState-Hook/static/js/177.c69129af.chunk.js.map"
+    "main.css": "/React-Props-MovieList/static/css/main.7a6098d6.css",
+    "main.js": "/React-Props-MovieList/static/js/main.9b3d5170.js",
+    "static/js/177.4775fd5b.chunk.js": "/React-Props-MovieList/static/js/177.4775fd5b.chunk.js",
+    "index.html": "/React-Props-MovieList/index.html",
+    "main.7a6098d6.css.map": "/React-Props-MovieList/static/css/main.7a6098d6.css.map",
+    "main.9b3d5170.js.map": "/React-Props-MovieList/static/js/main.9b3d5170.js.map",
+    "177.4775fd5b.chunk.js.map": "/React-Props-MovieList/static/js/177.4775fd5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a6098d6.css",
-    "static/js/main.b95d0aba.js"
+    "static/js/main.9b3d5170.js"
   ]
 }
